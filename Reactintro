@@ -1,0 +1,28 @@
+
+
+What is React
+1. React JS is a JavaScript library for creating user interfaces
+2. ReactJS Optimizes the DOM manipulation by writing very simple code
+3. React is used for applications where the data keeps changing very frequently
+Features​​​​​​​
+1. Component-based architecture
+2. Virtual DOM
+3. Unidirectional data flow
+4. JSX 
+5. SEO performance
+
+
+
+
+StrictMode
+
+React.StrictMode: It is a helper component which helps the developers in identifying the problems in the application. The React.StrictMode component does not render any visible UI
+
+StrictMode helps with the below :
+
+Identifying components with unsafe lifecycles
+Warning about legacy string ref API usage
+Warning about deprecated findDOMNode usage
+Detecting unexpected side effects
+Detecting legacy context API
+
